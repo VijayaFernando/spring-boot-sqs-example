@@ -1,3 +1,1 @@
-# spring-boot-sqs-example
-
-## Sample AWS SQS spring-boot application
+# Sample AWS SQS spring-boot application
